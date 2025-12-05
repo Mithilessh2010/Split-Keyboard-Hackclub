@@ -16,7 +16,7 @@ All project images are located in the Images folder.
 
 ### CAD View
 
-![CAD](Images/Screen Shot 2025-12-04 at 6.03.44 PM.png)
+![CAD](https://github.com/Mithilessh2010/Split-Keyboard-Hackclub/blob/main/Images/Screen%20Shot%202025-12-04%20at%206.03.44%20PM.png)
 
 ### PCB Layout
 
