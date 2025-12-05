@@ -10,7 +10,7 @@ The keyboard is built around the Seeed XIAO nRF52840 microcontroller, Kailh Choc
 
 All images for the project can be found in the Images folder.
 
-### CAD View  
+### CAD View  (Final, just unmated to see easier)
 ![CAD](Images/Screen%20Shot%202025-12-04%20at%206.03.44%20PM.png)
 
 ### PCB Layout  
@@ -70,7 +70,7 @@ Both parts are sized so that the PCB fits properly without forcing anything into
 | **Amazon total**                          |          |         | **$111.29** |
 
 ### JLCPCB Order
-![JLPCB](https://github.com/Mithilessh2010/Split-Keyboard-Hackclub/blob/main/Images/Screen%20Shot%202025-12-04%20at%208.33.57%20PM.png)
+![JLPCB](https://github.com/Mithilessh2010/Split-Keyboard-Hackclub/blob/main/Images/Screen%20Shot%202025-12-04%20at%208.39.20%20PM.png)
 
 | Item                          | Quantity | Price  |
 |-------------------------------|----------|--------|
