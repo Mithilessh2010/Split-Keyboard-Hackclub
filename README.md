@@ -56,6 +56,7 @@ Both parts are sized so that the PCB fits properly without forcing anything into
 ## Cost Breakdown
 
 ### Amazon Order
+![Amazon](https://github.com/Mithilessh2010/Split-Keyboard-Hackclub/blob/main/Images/Screen%20Shot%202025-12-04%20at%208.11.51%20PM.png)
 
 | Item                                      | Quantity | Price   | Subtotal |
 |-------------------------------------------|----------|---------|----------|
@@ -69,16 +70,17 @@ Both parts are sized so that the PCB fits properly without forcing anything into
 | **Amazon total**                          |          |         | **$111.29** |
 
 ### JLCPCB Order
+![JLPCB](https://github.com/Mithilessh2010/Split-Keyboard-Hackclub/blob/main/Images/Screen%20Shot%202025-12-04%20at%208.33.57%20PM.png)
 
 | Item                          | Quantity | Price  |
 |-------------------------------|----------|--------|
-| PCB prototype (5 boards)      | 5        | $14.20 |
+| PCB prototype (5 boards)      | 5        | $28.92 |
 
 ## Total Spent
 
 | Source        | Cost    |
 |---------------|---------|
 | Amazon        | $111.29 |
-| JLCPCB        | $14.20  |
+| JLCPCB        | $28.92  |
 |               |         |
-| **Total spent** | **$125.49** |
+| **Total spent** | **$140.21** |
