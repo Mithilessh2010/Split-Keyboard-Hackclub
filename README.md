@@ -16,7 +16,7 @@ All project images are located in the Images folder.
 
 ### CAD View
 
-![CAD](Images/Screen%20Shot%202025-12-02%20at%209.17.59%20PM.png)
+![CAD](Images/Screen Shot 2025-12-04 at 6.03.44 PM.png)
 
 ### PCB Layout
 
